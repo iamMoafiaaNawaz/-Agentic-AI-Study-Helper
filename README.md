@@ -17,11 +17,6 @@
 2. Add API key (Groq or OpenAI)
 3. Run notebooks
 
-## Author
-[Your Name]
-```
-
----
 
 ## **Folder Structure Suggestion**
 ```
